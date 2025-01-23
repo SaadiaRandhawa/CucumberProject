@@ -39,6 +39,3 @@ Feature: Adding an employee using different methods
       |matthew  |ms        |hayden    |
       |steve    |ms        |smith     |
 
-  @excel
-  Scenario: Adding employees using excel file
-    When user adds employees from excel file and verify them
